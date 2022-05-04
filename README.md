@@ -11,4 +11,4 @@ It has four (4) types of basic elements needed for any web-appplication built us
 
 TODO: outline how to create a completed app into a single executable file
 
-After cloning repo to local environment, execute/run the `setup_environment.sh` shell script but using this command: `cd basic-flask-app`, and then `./setup_environment.sh`.
+After cloning repo to local environment, execute/run the `setup_environment.sh` shell script by using this command: `cd basic-flask-app`, and then `./setup_environment.sh`.
